@@ -1,0 +1,10 @@
+.idea/
+data/test_be.csv
+.DS_Store
+modules/__pycache__
+data/data_for_coupon.csv
+data/data_for_coupon_verification.csv
+data/data_for_sale.csv
+data/test_for_coupon.csv
+data/test_for_coupon_verification.csv
+data/test_for_sale.csv
